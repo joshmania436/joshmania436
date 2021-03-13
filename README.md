@@ -1,11 +1,8 @@
 ### Hi there 👋 My name is Joshua, but feel free to call me Josh
 ### I'm glad you stumbled upon me!
 
-<!---
-**joshmania436/joshmania436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
-
-I am a Gamer, a Pianist, a Website Developer, an App Developer and a Game Developer
+**About what I'm upto**
+#### I am a Gamer, a Pianist, a Website Developer, an App Developer and a Game Developer
 - 🔭 I’m currently working on AI, Web-Dev and Game Dev
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Web-Dev
