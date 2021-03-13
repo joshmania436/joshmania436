@@ -26,7 +26,7 @@
 
 
 <a href="https://github.com/joshmania436/Barter-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=joshmania436&repo=Mod-Mail&theme=dracula" alt="Discord" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=joshmania436&repo=Barter-App&theme=dracula" alt="Discord" width="400"/>
 <a href="https://github.com/joshmania436/Weather-Forecast">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FiredragonPlayz&repo=Advanced-Website-HTML-and-CSS&theme=dracula" alt="Discord" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=joshmania436&repo=Weather-Forecast&theme=dracula" alt="Discord" width="400"/>
 </a>
