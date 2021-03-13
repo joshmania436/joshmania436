@@ -20,14 +20,13 @@
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=joshmania436&theme=dracula&count_private=true"></div>
 
 
-
-
-
-
-
-
-
-
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=joshmania436&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshmania436&theme=tokyonight&hide=batchfile">
 
+
+
+
+<a href="https://github.com/FiredragonPlayz/Mod-Mail">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FiredragonPlayz&repo=Mod-Mail&theme=dracula" alt="Discord" width="400"/>
+<a href="https://github.com/FiredragonPlayz/Advanced-Website-HTML-and-CSS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FiredragonPlayz&repo=Advanced-Website-HTML-and-CSS&theme=dracula" alt="Discord" width="400"/>
+</a>
