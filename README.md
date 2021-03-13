@@ -7,8 +7,8 @@ and I am a certified Andriod and IOS Deeloper
 
 
 **My Ambition In The Future**
-1 - In probably 35-50 years, AI will take over and 95% of the world will be taking instructions from AI. I want to be that 5% who give instructions to AI to function accordingly
-2 - I want to be a Front-End Web Developer, a Game-Developer or an App Developer 
+#### 1 - In probably 35-50 years, AI will take over and 95% of the world will be taking instructions from AI. I want to be that 5% who give instructions to AI to function accordingly
+#### 2 - I want to be a Front-End Web Developer, a Game-Developer or an App Developer 
 
 
 **About what I'm upto**
