@@ -13,7 +13,6 @@
 - 💬 Ask me about ... Web-Dev and Game-Dev
 - 📫 How to reach me: <a href ='https://www.instagram.com/_.jo.sh._._/'>Instagram</a>
 - 😄 Pronouns: He/Him
-<!--- ⚡ Fun fact:-- >
 
 
 
