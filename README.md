@@ -6,6 +6,10 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshmania436)](https://github.com/joshmania436/github-readme-stats)
 
+<a href="https://discord.com/users/725945760629129277">
+<img src="https://discord.c99.nl/widget/theme-3/725945760629129277.png" alt="Discord"/>
+</a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 
