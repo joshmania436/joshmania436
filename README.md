@@ -2,7 +2,16 @@
 ### I'm glad you stumbled upon me!
 
 **About what I'm upto**
-#### I am a Gamer, a Pianist, a Website Developer, an App Developer and a Game Developer
+#### I am a Gamer 🎮, a Pianist 🎹, an App Developer ✨, and a Web and Game Developer </>
+#### I am a certified Andriod and IOS Deeloper
+<br>
+<br>
+
+**My Ambition In The Future**
+#### 1 - In probably 35-50 years, AI will take over and 95% of the world will be taking instructions from AI. I want to be that 5% who give instructions to AI to function accordingly
+
+#### 2 - I want to be a Front-End Web Developer, a Game-Developer or an App Developer 
+
 - 🔭 I’m currently working on AI, Web-Dev and Game Dev
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Web-Dev
