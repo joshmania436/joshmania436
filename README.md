@@ -17,7 +17,7 @@
   <br>
   <br>
   <br>
-
+**My Stats**
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=joshmania436&theme=dracula&count_private=true"></div>
 
 
