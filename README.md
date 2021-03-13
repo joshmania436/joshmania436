@@ -13,11 +13,9 @@
 - 💬 Ask me about ... Web-Dev and Game-Dev
 - 📫 How to reach me: <a href ='https://www.instagram.com/_.jo.sh._._/'>Instagram</a>
 - 😄 Pronouns: He/Him
-<!--- ⚡ Fun fact:-- 
+<!--- ⚡ Fun fact:-- >
 
 
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=joshmania436&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshmania436&theme=tokyonight&hide=batchfile">
-<br>
-<br>
