@@ -10,6 +10,7 @@
 <img src="https://discord.c99.nl/widget/theme-3/755692552421900299.png" alt="Discord"/>
 </a>
 --->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=firedragonplayz&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiredragonPlayz&theme=tokyonight&hide=batchfile">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 
