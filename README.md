@@ -23,9 +23,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=joshmania436&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshmania436&theme=tokyonight&hide=batchfile">
 
-  <br>
-  <br>
-  <br>
+<br>
+<br>
+<br>
  
 **My Most Popular Repo's**
 <a href="https://github.com/joshmania436/Barter-App">
