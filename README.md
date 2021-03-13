@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Joshua, but feel free to call me Josh
 ### I'm glad you stumbled upon me!
 #### I am a Gamer 🎮, a Pianist 🎹, an App Developer ✨, and a Web and Game Developer </>
-#### I am a certified Andriod and IOS Deeloper
+#### and I am a certified Andriod and IOS Deeloper
 <br>
 <br>
 
