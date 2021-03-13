@@ -14,18 +14,12 @@
 - 📫 How to reach me: <a href ='https://www.instagram.com/_.jo.sh._._/'>Instagram</a>
 - 😄 Pronouns: He/Him
 
-  <br>
-  <br>
-  <br>
 **My Stats**
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=joshmania436&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshmania436&theme=tokyonight&hide=batchfile">
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=joshmania436&theme=dracula&count_private=true"></div>
 
-<br>
-<br>
-<br>
 <a href="https://github.com/joshmania436/Barter-App">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshmania436&repo=Barter-App&theme=dracula" alt="Discord" width="400"/>
 
