@@ -6,11 +6,11 @@
 --->
 
 
-- 🔭 I’m currently working on Python, Web-Dev and Game Dev
+- 🔭 I’m currently working on AI, Web-Dev and Game Dev
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Web-Dev
 - 🤔 I’m looking for help with ... Python and React-Native
-- 💬 Ask me about ... Web-Dev and Game-Dev
+- 💬 Ask me about ... Web-Dev, AI and Game-Dev
 - 📫 How to reach me: <a href ='https://www.instagram.com/_.jo.sh._._/'>Instagram</a>
 - 😄 Pronouns: He/Him
 
