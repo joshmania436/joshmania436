@@ -1,27 +1,19 @@
-### Hi there 👋
+### Hi there 👋 My name is Joshua, but feel free to call me Josh
 ### I'm glad you stumbled upon me!
 
 <!---
 **joshmania436/joshmania436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 
-<!---
-<a href="https://discord.com/users/755692552421900299">
-<img src="https://discord.c99.nl/widget/theme-3/755692552421900299.png" alt="Discord"/>
-</a>
---->
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Python, Web-Dev and Game Dev
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with ... Python and React-Native
+- 💬 Ask me about ... Web-Dev and Game-Dev
+- 📫 How to reach me: <a href ='https://www.instagram.com/_.jo.sh._._/'>Instagram</a>
+- 😄 Pronouns: He/Him
+<!--- ⚡ Fun fact:-- 
 
 
 
