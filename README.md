@@ -10,9 +10,7 @@
 <img src="https://discord.c99.nl/widget/theme-3/755692552421900299.png" alt="Discord"/>
 </a>
 --->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=joshmania436&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshmania436&theme=tokyonight&hide=batchfile">
-<br>
-<br>
+
 
 Here are some ideas to get you started:
 
@@ -25,3 +23,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=joshmania436&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshmania436&theme=tokyonight&hide=batchfile">
+<br>
+<br>
