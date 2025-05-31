@@ -1,15 +1,13 @@
-I am an App Developer, a Web and Game Developer </>
-and I am a certified Andriod and IOS Devloper
+I am an App Developer, a Web and Game Developer and I am a certified Andriod and IOS Developer
 <br>
 <br>
 
-**About what I'm upto**
-- 🔭 I’m currently working on AI, Web-Dev and Game Dev
-- 🌱 I’m currently learning Python
+**Past Work**
+- 🔭 working on AI, Web-Dev, and Game Dev
+- 🌱 Open to honing my knowledge on code 
 - 👯 I’m looking to collaborate on Web-Dev
 - 🤔 I’m looking for help with ... Python and React-Native
-- 💬 Ask me about ... Web-Dev, AI and Game-Dev
-- 📫 How to reach me: <a href ='https://www.instagram.com/_.jo.sh._._/'>Instagram</a>
+- 💬 Ask me about ... Web-Dev, AI, and Game-Dev
 - 😄 Pronouns: He/Him
 
 **My Stats**
