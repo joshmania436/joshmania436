@@ -3,7 +3,7 @@ I am an App Developer, a Web and Game Developer and I am a certified Andriod and
 <br>
 
 **Past Work**
-- 🔭 working on AI, Web-Dev, and Game Dev
+- 🔭 Worked on AI, Web-Dev, and Game Dev
 - 🌱 Open to honing my knowledge on code 
 - 👯 I’m looking to collaborate on Web-Dev
 - 🤔 I’m looking for help with ... Python and React-Native
